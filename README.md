@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Akilan Selvacoumar
+### Hi there 👋,
 #### I am just a normal person
 I love to build stuff and love to run away from fancy documentation. 
 
