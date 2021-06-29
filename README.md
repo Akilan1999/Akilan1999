@@ -4,4 +4,6 @@ I love to build stuff and love to run away from fancy documentation.
 
 Skills: Eating | Procrastination | Doing random things 
 
-Open to work: https://akilan.io/generalposts/opentowork/
+----
+
+##### [Open to work](https://akilan.io/generalposts/opentowork/)
