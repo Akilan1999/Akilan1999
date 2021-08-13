@@ -6,4 +6,4 @@ Skills: Eating | Procrastination | Doing random things
 ----
 
 ##### [Open to work](https://akilan.io/generalposts/opentowork/)
-#### Maintainer of P2PRC
+##### [Maintainer of P2PRC](https://github.com/Akilan1999/p2p-rendering-computation)
