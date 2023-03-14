@@ -1,0 +1,3 @@
+- [ ] https://www.youtube.com/watch?v=wppzFzzD4b8 (Bartosz Milewski – Replacing functions with data)
+- [ ] https://www.youtube.com/watch?v=huEHzm4MTtM&list=LL&index=1 (N515DL and N273SM accidents investigated)
+- [ ] https://www.youtube.com/watch?v=Ruh93CwQBCI (Wing Sweep and Critical Mach Number in X-Plane 12)
